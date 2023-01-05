@@ -1,9 +1,42 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ]
-  }
+  "product": [
+    {
+      "id": 1,
+      "productName": "Product1"
+    },
+    {
+      "id": 2,
+      "productName": "Product2"
+    },
+    {
+      "id": 3,
+      "productName": "Product3"
+    },
+    {
+      "id": 4,
+      "productName": "Product4"
+    },
+    {
+      "productName": "Product5",
+      "id": 5
+    },
+    {
+      "productName": "Product6",
+      "id": 6
+    },
+    {
+      "productName": "Product7",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "productName": "Product8"
+    },
+    {
+      "productName": "Product9",
+      "id": 9
+    }
+  ]
+}
+
   

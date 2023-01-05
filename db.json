@@ -1,74 +1,114 @@
 {
-  "data" : [
-    {
-        "id" : 1,
-        "image" : "",
-        "product" : "nam11",
-        "title" : "des1",
-        "price" : 799
-    },
-    {
-        "id" : 2,
-        "image" : "",
-        "product" : "name2",
-        "title" : "desc2",
-        "price" : 999
-    },
-    {
-        "id" : 3,
-        "image" : "",
-        "product" :"name3",
-        "title" : "desc3",
-        "price" : 244
-    },
-    {
-        "id" : 4,
-        "image" : "",
-        "product" :"name4",
-        "title" : "desc4",
-        "price" : 315
-    },
-    {
-        "id" : 5,
-        "image" : "",
-        "product" :"name5",
-        "title" : "desc5",
-        "price" : 259
-    },
-    {
-        "id" : 6,
-        "image" : "",
-        "product" :"name6",
-        "title" : "desc6",
-        "price" : 297
-    },
-    {
-        "id" : 7,
-        "image" : "",
-        "product" :"name7",
-        "title" : "desc7",
-        "price" : 471
-    },
-    {
-        "id" : 8,
-        "image" : "",
-        "product" :"name8",
-        "title" : "desc8",
-        "price" : 262
-    },
-    {
-        "id" : 9,
-        "image" : "",
-        "product" :"name9",
-        "title" : "desc9",
-        "price" : 199
-    },
-    {
-        "id" : 10,
-        "image" : "",
-        "product" :"name10",
-        "title" : "desc10",
-        "price" : 395
-    }
-]
-}
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Tata",
+              "type":"Manual",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Tata Altroz Manual with all original documents",
+        "Price": 500000
+      },
+      {
+        "id": 2,
+        "brand": "Tata",
+              "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon AMT with all original documents",
+        "Price": 800000
+      },
+      {
+        "id": 3,
+        "brand": "Tata",
+              "type":"AMT",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Tata Altroz AMT with all original documents",
+        "Price": 600000
+      },
+      {
+        "id": 4,
+        "brand": "Tata",
+              "type":"AMT",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Tata Nexon Manual with all original documents",
+        "Price": 700000
+      },
+
+      {
+        "id": 5,
+        "brand": "Suzuki",
+              "type":"Manual",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Suzuki Swift Manual with all original documents",
+        "Price": 500000
+      },
+      {
+        "id": 6,
+        "brand": "Suzuki",
+              "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Suzuki Vitara AMT with all original documents",
+        "Price": 800000
+      },
+      {
+        "id": 7,
+        "brand": "Suzuki",
+              "type":"AMT",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Suzuki Swift AMT with all original documents",
+        "Price": 600000
+      },
+      {
+        "id": 8,
+        "brand": "Suzuki",
+              "type":"AMT",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Suzuki Vitara Manual with all original documents",
+        "Price": 700000
+      },
+      
+      {
+        "id": 9,
+        "brand": "Hyundai",
+              "type":"Manual",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Hyundai i20 Manual with all original documents",
+        "Price": 500000
+      },
+      {
+        "id": 10,
+        "brand": "Hyundai",
+              "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Hyundai Verna AMT with all original documents",
+        "Price": 800000
+      },
+      {
+        "id": 11,
+        "brand": "Hyundai",
+              "type":"AMT",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Hyundai i20 AMT with all original documents",
+        "Price": 600000
+      },
+      {
+        "id": 12,
+        "brand": "Hyundai",
+              "type":"AMT",
+        "year": 2019,
+        "kms": 10000,
+        "Description": "Hyundai Verna Manual with all original documents",
+        "Price": 700000
+      }
+    ]
+  }

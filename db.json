@@ -111,5 +111,15 @@
         "Price": 700000
       }
     ],
-    "users":[]
+    "users":
+    [
+      { 
+
+        "id" : 1,
+        "username" : "abd",
+        "password" : "abc",
+        "email" : "xyz",
+        "confirmpassword" : "abc"
+    }
+    ]
   }
